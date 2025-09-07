@@ -29,7 +29,7 @@ AI Model: GPT API
 
 🔧 Installation
 1. Clone Repo
-git clone https://github.com/your-username/mern-ai-chatbot.git
+git clone https://github.com/rohitbhardwajj/real-time-ai-chat.git
 cd mern-ai-chatbot
 
 2. Backend Setup
