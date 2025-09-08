@@ -17,6 +17,7 @@ This project allows seamless live communication between user and AI with memory-
 
 🎨 Simple and clean UI with React
 
+
 📂 Tech Stack
 
 Frontend: React, Socket.io-client
